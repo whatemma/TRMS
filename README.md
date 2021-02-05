@@ -10,9 +10,10 @@ JavaScript, Express.js, DynamoDB, React, HTML, CSS, Redux, TypeScript, Axios
 ## How to run
 The project is split into 2 folders, front-end and back-end.
 ### Back-end
-1. Create a .env file to specify the port for express server to run on, and the react app server uri address that react is running in (You can copy the .env.example file to your .env file).
+1. Follow the .env.example file in the back-end folder to create a .env file locally on your machine.
 2. Run `npm run setup` to create the database in AWS DynamoDB.
 3. Run `npm run start` to start the express server.
 
 ### Front-end
-1. Run `npm run start` to start the React Application 
+1. Follow the .env.example file in the front-end folder to create a .env file locally on your machine.
+2. Run `npm run start` to start the React Application 
