@@ -1,0 +1,41 @@
+body,
+html {
+    height: 100%;
+    background: linear-gradient(#f5efef, #feada6) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header {
+    margin-bottom: 5%;
+}
+
+.detail-card {
+    width: 60%;
+    margin-bottom: 5%;
+    margin: auto;
+}
+
+.form {
+    width: 25%;
+    margin: auto;
+    padding: 3% 2%;
+    border: 1px solid #f7f7f7;
+    background-color: #f7f7f7;
+    border-radius: 2%;
+}
+
+.button-body {
+    margin: auto;
+}
+
+.add-form {
+    width: 60%;
+    margin: auto;
+    padding: 3% 2%;
+    border: 1px solid #f7f7f7;
+    background-color: #f7f7f7;
+    border-radius: 2%;
+}
